@@ -1,5 +1,5 @@
 import React, {useState, useEffect } from "react";
-import Joke from "./JokeCopy";
+import Joke from "./Joke";
 import axios from "axios";
 import "./JokeList.css"
 
